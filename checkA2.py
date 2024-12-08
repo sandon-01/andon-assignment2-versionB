@@ -5,6 +5,7 @@ import duim
 import unittest
 import subprocess
 import inspect, ast
+import assignment2
 from importlib import import_module
 
 class TestArgs(unittest.TestCase):
